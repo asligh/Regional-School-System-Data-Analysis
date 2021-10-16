@@ -2,7 +2,7 @@
 
 ## PyCity Schools
 
-Professional analysis of the district-wide standardized test results for the PyCity School system using student math and reading scores as well as budgetary data.  Solution encapusaltes the following deliverables:
+Professional analysis of the district-wide standardized test results for the PyCity School system using student math and reading scores as well as budgetary data.  The data analysis solution encapusaltes the following deliverables:
 
 ### District Summary
 
