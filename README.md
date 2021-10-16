@@ -48,7 +48,7 @@ Professional analysis of the district-wide standardized test results for the PyC
 
 * Table that highlights the bottom 5 performing schools based on % Overall Passing
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
