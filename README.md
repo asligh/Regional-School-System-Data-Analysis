@@ -84,6 +84,8 @@ Professional analysis of the district-wide standardized test results for the PyC
 
 * Analysis of scores by school size based on a reasonable approximation (Small, Medium, Large).
 
+![Education](Images/Visualization8.png)
+
 ### Scores by School Type
 
 * Analysis of scores by school type (Charter vs. District).
