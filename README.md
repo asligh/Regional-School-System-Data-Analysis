@@ -89,3 +89,5 @@ Professional analysis of the district-wide standardized test results for the PyC
 ### Scores by School Type
 
 * Analysis of scores by school type (Charter vs. District).
+
+![Education](Images/Visualization9.png)
