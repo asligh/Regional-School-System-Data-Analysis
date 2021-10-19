@@ -16,6 +16,9 @@ Professional analysis of the district-wide standardized test results for the PyC
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![Education](Images/Code_Part1.png)
+
+
 ### School Summary
 
 * Overview table that summarizes key metrics about each school, including:
