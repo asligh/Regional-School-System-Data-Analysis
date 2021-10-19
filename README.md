@@ -69,7 +69,6 @@ Professional analysis of the district-wide standardized test results for the PyC
 
 ![Education](Images/Visualization6.png)
 
-
 ### Scores by School Spending
 
 * Table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
@@ -78,6 +77,8 @@ Professional analysis of the district-wide standardized test results for the PyC
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+![Education](Images/Visualization7.png)
 
 ### Scores by School Size
 
