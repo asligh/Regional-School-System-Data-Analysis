@@ -59,13 +59,16 @@ Professional analysis of the district-wide standardized test results for the PyC
 
 ### Math Scores by Grade
 
-![Education](Images/Visualization5.png)
-
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![Education](Images/Visualization5.png)
 
 ### Reading Scores by Grade
 
 * Tablethat lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![Education](Images/Visualization6.png)
+
 
 ### Scores by School Spending
 
