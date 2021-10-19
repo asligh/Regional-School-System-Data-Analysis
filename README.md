@@ -2,7 +2,16 @@
 
 ## PyCity Schools
 
-Professional analysis of the district-wide standardized test results for the PyCity School system using student math and reading scores as well as budgetary data.  The data analysis solution encapusaltes the following deliverables using Pandas and Juypter Notebooks:
+The following are the visualizations resulting from a professional analysis of district-wide standardized test results for the PyCity School system using student math and reading scores as well as budgetary data.  The following are the school system requirements, along with the supportive visualizations.
+
+## Author
+
+Ashley Sligh
+
+## Programming Language/Tools Applied
+
+Python, Jupyter Notebook, CSV
+
 
 ### District Summary
 
