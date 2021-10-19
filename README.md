@@ -8,7 +8,7 @@ The following are the visualizations resulting from a professional analysis of d
 
 Ashley Sligh
 
-##Limitations
+## Limitations
 
 When viewing the .ipynb file in GitHub, the columns in the Visualizations will be shifted. It is recommended to the viewer to download the project to a local machine and launch jupyter notebook from the directory via a Bash session.
 
