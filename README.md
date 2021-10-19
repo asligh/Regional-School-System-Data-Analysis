@@ -1,4 +1,4 @@
-![Education](Images/education.png)
+![Education](Images/School.png)
 
 ## PyCity Schools
 
