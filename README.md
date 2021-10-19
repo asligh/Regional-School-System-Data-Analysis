@@ -20,6 +20,8 @@ Professional analysis of the district-wide standardized test results for the PyC
 
 ![Education](Images/Code_Part1.png)
 
+![Education](Images/Visualization1.png)
+
 ### School Summary
 
 * Overview table that summarizes key metrics about each school, including:
